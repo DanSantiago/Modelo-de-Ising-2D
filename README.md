@@ -18,6 +18,7 @@ As constantes e a inclusão de bibliotecas utilizadas no modelo são definidas/i
 
 # Tecnologias utilizadas
 - C
+- makefile
 
 ## Bibliotecas utilizadas
 - stdio
